@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "182272150880",
+    "project_id": "skibidi-mewing-ohio-tax",
+    "storage_bucket": "skibidi-mewing-ohio-tax.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182272150880:android:f97843c47cc02134d12205",
+        "android_client_info": {
+          "package_name": "com.example.gooningsigmamalerizzdukedennisrizzlratiobetaskibidiwi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "182272150880-3h2o77gk0gqvr8ud568t5gh9qfngr54n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwaXZrutVWVOAo-8rg9sc1u-l3y1ZwpQg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "182272150880-3h2o77gk0gqvr8ud568t5gh9qfngr54n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "182272150880-c9ift1k3cp4chl84jer7c8ka9gupakkj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gooningsigmamalerizzdukedennisrizzlratiobetaskibidiwithkaicenatinohio"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182272150880:android:a6d97166fa3681f7d12205",
+        "android_client_info": {
+          "package_name": "com.example.gooningsigmamalerizzdukedennisrizzlratiobetaskibidiwithkaicenatinohio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "182272150880-3h2o77gk0gqvr8ud568t5gh9qfngr54n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwaXZrutVWVOAo-8rg9sc1u-l3y1ZwpQg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "182272150880-3h2o77gk0gqvr8ud568t5gh9qfngr54n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "182272150880-c9ift1k3cp4chl84jer7c8ka9gupakkj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gooningsigmamalerizzdukedennisrizzlratiobetaskibidiwithkaicenatinohio"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
