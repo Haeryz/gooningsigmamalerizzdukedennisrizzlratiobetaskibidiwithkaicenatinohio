@@ -6,6 +6,8 @@ import '../modules/authentication/bindings/authentication_binding.dart';
 import '../modules/authentication/views/authentication_view.dart';
 import '../modules/breakfast/bindings/breakfast_binding.dart';
 import '../modules/breakfast/views/breakfast_view.dart';
+import '../modules/connection/bindings/connection_binding.dart';
+import '../modules/connection/views/connection_view.dart';
 import '../modules/foto/bindings/foto_binding.dart';
 import '../modules/foto/views/foto_view.dart';
 import '../modules/home/bindings/home_binding.dart';
@@ -79,6 +81,11 @@ class AppPages {
       name: _Paths.MODUL5,
       page: () => const Modul5View(),
       binding: Modul5Binding(),
+    ),
+    GetPage(
+      name: _Paths.CONNECTION,
+      page: () => const ConnectionView(),
+      binding: ConnectionBinding(),
     ),
   ];
 }

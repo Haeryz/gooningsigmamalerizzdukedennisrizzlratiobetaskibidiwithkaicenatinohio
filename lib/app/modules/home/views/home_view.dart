@@ -29,6 +29,9 @@ class HomeView extends GetView<HttpController> {
               ElevatedButton(onPressed: (){
                 Get.toNamed(Routes.MODUL5);
               }, child: Text('Modul 5')),
+              ElevatedButton.icon(onPressed: (){
+                Get.toNamed(Routes.CONNECTION);
+              }, label: Text('Wifi connection'), icon: Icon(Icons.other_houses)),
             ],
           ),
         ));

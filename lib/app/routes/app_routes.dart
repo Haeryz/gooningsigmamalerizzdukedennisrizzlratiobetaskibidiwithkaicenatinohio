@@ -14,6 +14,7 @@ abstract class Routes {
   static const FOTO = _Paths.FOTO;
   static const VIDEO = _Paths.VIDEO;
   static const MODUL5 = _Paths.MODUL5;
+  static const CONNECTION = _Paths.CONNECTION;
 }
 
 abstract class _Paths {
@@ -29,4 +30,5 @@ abstract class _Paths {
   static const FOTO = '/foto';
   static const VIDEO = '/video';
   static const MODUL5 = '/modul5';
+  static const CONNECTION = '/connection';
 }
